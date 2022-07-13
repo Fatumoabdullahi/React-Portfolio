@@ -3,6 +3,7 @@ let resumeData = {
   name: "Fatumo Abdullahi",
   role: "Full Stack Developer",
   linkedinId: "www.linkedin.com/in/fatumo-abdullahi-11a663199",
+  emailId: "fatumoabdullahi@outlook.com",
   skypeid: "Your skypeid",
   roleDescription: "with a passion for exploring new technologies.",
 
@@ -63,7 +64,7 @@ let resumeData = {
         "Using a communicative approach to support learners in order to enhance their speaking, listening, reading and writing skills in General English at levels 1 and 2 for Functional Skills. Adapting teching material depending on learners' language needs.",
     },
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "",
   skills: [
     {
       skillname: "HTML5",
@@ -72,39 +73,35 @@ let resumeData = {
       skillname: "CSS",
     },
     {
+      skillname: "Javascript",
+    },
+    {
       skillname: "Reactjs",
     },
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Weight A Minute",
+      description:
+        "Weight A Minute is a full stack gym application that allows users to create a unique gym routine and have a saved record of their unique workouts.",
+      imgurl: "images/portfolio/wam.png",
     },
     {
-      name: "project2",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project.jpg",
+      name: "Show Me More",
+      description:
+        "A frontend web application that shows me more about the actors featured in a film or programme I have just watched.",
+      imgurl: "images/portfolio/screenshots.png",
     },
     {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png",
+      name: "Password Generator",
+      description: "",
+      imgurl: "images/portfolio/password.png",
     },
     {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
-    },
-  ],
-  testimonials: [
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
-    },
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
+      name: "RatHub",
+      description:
+        "A virtual pet rat experience. Adopt and customise your very own pet rat.",
+      imgurl: "images/portfolio/rathub.png",
     },
   ],
 };
