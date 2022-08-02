@@ -94,7 +94,8 @@ let resumeData = {
     },
     {
       name: "Password Generator",
-      description: "",
+      description:
+        "Depending on a users answers to a series of prompts, this application will present a unique password. This application is powered by Javascript.",
       imgurl: "images/portfolio/password.png",
     },
     {
