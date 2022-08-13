@@ -83,25 +83,25 @@ let resumeData = {
     {
       name: "Weight A Minute",
       description:
-        "Weight A Minute is a full stack gym application that allows users to create a unique gym routine and have a saved record of their unique workouts.",
+        "Weight A Minute is a full stack gym application that allows users to create a unique gym routine and have a saved record of their unique workouts. Technologies used include; Node js, Express, MySQL/mariadb, Sequelize, Dbeaver, Postman, Handlebars, Custom CSS, Javascript",
       imgurl: "images/portfolio/wam.png",
     },
     {
       name: "Show Me More",
       description:
-        "A frontend web application that shows me more about the actors featured in a film or programme I have just watched.",
+        "A frontend web application that shows me more about the actors featured in a film or programme I have just watched. Some of the technologies used include; JQuery, Zurb Foundation, IMDB API, TMDB API, CSS, Javascript",
       imgurl: "images/portfolio/screenshots.png",
     },
     {
       name: "Password Generator",
       description:
-        "Depending on a users answers to a series of prompts, this application will present a unique password. This application is powered by Javascript.",
+        "Depending on a users answers to a series of prompts, this application will present a unique password. This application is powered by Javascript and designed using custom CSS and HTML.",
       imgurl: "images/portfolio/password.png",
     },
     {
       name: "RatHub",
       description:
-        "A virtual pet rat experience. Adopt and customise your very own pet rat.",
+        "A virtual pet rat experience. Adopt and customise your very own pet rat. Some of the technologies used include; ReactJS, Custom CSS, jQuery, NodeJS, Express,bcrypt, Mongo DB,Mongoose",
       imgurl: "images/portfolio/rathub.png",
     },
   ],
